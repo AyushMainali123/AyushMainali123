@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <a href="https://mainaliayush.com.np"><img src="https://github.com/AyushMainali123/AyushMainali123/blob/main/devcard.svg" width="400" alt="Ayush Mainali Dev Card"/></a>
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=AyushMainali123&theme=darkhub&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -24,3 +25,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AyushMainali123&theme=dark)](https://git.io/streak-stats)
 
+-->
