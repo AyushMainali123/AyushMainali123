@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **new technologies everyday.**
 
-- 👨‍💻 All of my projects are available at [https://www.mainaliayush.com.np/](https://www.mainaliayush.com.np/)
+<!-- - 👨‍💻 All of my projects are available at [https://www.mainaliayush.com.np/](https://www.mainaliayush.com.np/) -->
 
 - 💬 Ask me about **reactjs, typescript, nodejs, nextjs, tailwind, frontend and backend technologies.**
 
