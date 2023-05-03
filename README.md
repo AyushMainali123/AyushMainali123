@@ -11,11 +11,11 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.mainaliayush.com.np/](https://www.mainaliayush.com.np/) -->
 
-- 💬 Ask me about **reactjs, typescript, nodejs, nextjs, tailwind, frontend and backend technologies.**
+- 💬 Ask me anything about **Web Application Development and its ecosystem**
 
 - 📫 How to reach me **ayushmainali11@gmail.com**
 
-- ⚡ Fun fact **I think I am a good learner.**
+<!-- - ⚡ Fun fact **I think I am a good learner.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
