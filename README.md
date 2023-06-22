@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmainali123&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmainali123" /> </p>
 
-- 🔭 I’m currently working on [krowlabs](http://www.sugarlist.com/)
+<!--- 🔭 I’m currently working on [krowlabs](http://www.sugarlist.com/)-->
 
 - 🌱 I’m currently learning **new technologies everyday.**
 
