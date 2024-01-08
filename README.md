@@ -13,7 +13,6 @@
 
 - 💬 Ask me anything about **Web Application Development and its ecosystem**
 
-- 📫 How to reach me **ayushmainali11@gmail.com**
 
 <!-- - ⚡ Fun fact **I think I am a good learner.** -->
 
