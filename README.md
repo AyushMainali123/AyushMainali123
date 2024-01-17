@@ -1,6 +1,6 @@
 <img src="https://github.com/AyushMainali123/AyushMainali123/blob/main/devcard.svg" width="350" />
 <h1 align="center">Hi 👋, I'm Ayush Mainali</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate fullstack developer from Nepal</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmainali123&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmainali123" /> </p>
