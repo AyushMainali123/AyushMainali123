@@ -11,7 +11,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.mainaliayush.com.np/](https://www.mainaliayush.com.np/) -->
 
-- 💬 Ask me anything about **Web Application Development and its ecosystem**
 
 
 <!-- - ⚡ Fun fact **I think I am a good learner.** -->
